@@ -54,6 +54,12 @@ DELETE FROM pet where name = 'squirrel';
 -- 删除表
 DROP TABLE myorder;
 ```
+## SQL数据类型
+数字类型：TINYINT,SAMLLINT, MEDIUMINT,INT, BIGINT,FLOAT, DOUBLE,
+时间类型：DATA, TIME, YEAR, DATATIME,
+字符串类型：CHAR,VARCHAR, ...
+如何选择:日期选择按照格式， 数值和字符串选择按照大小。
+
 
 ## 建表约束
 
